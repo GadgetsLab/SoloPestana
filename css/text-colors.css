@@ -1,0 +1,11 @@
+.text-purple
+{
+    color: #823e92 !important;
+}
+.text-purple.light
+{
+    color: #ab79b7 !important;
+}
+.text-white{
+    color: white;
+}
